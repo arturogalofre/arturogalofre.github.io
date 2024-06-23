@@ -1,8 +1,8 @@
 # site settings
-title: Hi my name is Arturo, welcome to my website!
-subtitle: Here you will find some information about myself
+title: Arturo Galofre
+subtitle: Welcome to my website!
 email: arturogalofreestape@gmail.com
-description: Please contact me if you have any further questions
+description: I'm a Data Sceintist specialised in power systems and renewables energy
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://arturogalofre.github.io # the base hostname & protocol for your site
 author: Arturo Galofre

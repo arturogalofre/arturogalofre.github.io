@@ -12,12 +12,16 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About me</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Who am I?</h2>
+<p>Professionally speaking, I am a Mechanical and Electrical Engineer by training, currently working in the renewable energy sector with an offshore wind developer. My goal is to leverage my expertise in electrical and mechanical engineering, along with my passion for data-driven solutions, to drive the energy transition and decarbonize our grids.
+
+On the personal side , I am an outdoor sports enthusiast with a deep love for nature and adventure. Whether it's cycling, climbing, hiking, or skiing, I thrive on the challenge and excitement these activities bring. I spend most of my free time outdoors, exploring new trails, scaling mountains, and seeking out new adventures. The closer I am to a mountain, the happier I am.
+
+In addition to my love for sports, I am passionate about environmental conservation and sustainability. I believe that spending time in nature fosters a greater appreciation for our planet and strengthens my commitment to protecting it. This passion for the outdoors and the environment aligns seamlessly with my professional goals in renewable energy, creating a holistic approach to both my work and personal life.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
