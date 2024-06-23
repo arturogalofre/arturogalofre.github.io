@@ -3,7 +3,7 @@ title: Hi my name is Arturo, welcome to my website!
 subtitle: Here you will find some information about myself
 email: arturogalofreestape@gmail.com
 description: Please contact me if you have any further questions
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+#baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://arturogalofre.github.io # the base hostname & protocol for your site
 author: Arturo Galofre
 street_address: Boston
