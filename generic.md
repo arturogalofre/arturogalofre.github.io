@@ -1,19 +1,22 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Experience and background
+description: 
+image: assets/images/offshore.jpeg
 nav-menu: true
 ---
 
 
+---
 
-## Arturo Galofré
+**Grid Connection Specialist for Ocean Winds - Electrical & Mechanical Engineer - Data-driven Solutions**
 
-**Grid Connection Specialist for Ocean Winds | Electrical & Mechanical Engineer | Data-driven Solutions**
+---
 
 ### Summary
 Motivated engineer with a strong background in renewable energy and a passion for data-driven solutions. Experienced in developing databases, analyzing data using Python libraries, and using PowerWorld and ASPEN software for grid modeling. Proven ability to quantify impact and communicate technical concepts to non-technical audiences. Seeking opportunities to leverage data science skills in the renewable energy industry to make a meaningful contribution to sustainable energy solutions.
+
+---
 
 ### Experience
 
@@ -51,6 +54,8 @@ Barcelona, Catalonia, Spain
 - Developed semester outlines and instructional plans for each class session to comply with course objectives.
 - Conducted instructional presentations to cohorts of more than 25 students in a traditional classroom setting.
 
+---
+
 ### Education
 
 #### Illinois Institute of Technology
@@ -65,19 +70,21 @@ Master's degree, Electrical and Mechanical Engineering
 ETSEIB, Electrical and Mechanical Engineering  
 *2017 - 2021*
 
-#### Col·legi Montserrat
-International Baccalaureate  
-*2015 - 2017*
+---
 
 ### Skills
 - **Machine Learning**
 - **Project Management**
 - **Project Planning**
 
+---
+
 ### Languages
 - **Spanish:** Native or Bilingual
 - **Catalan:** Native or Bilingual
 - **English:** Full Professional
+
+---
 
 ### Certifications
 - **Hands-On Essentials: Data Warehousing Workshop**
