@@ -6,10 +6,10 @@ description: I'm a Data Sceintist specialised in power systems and renewable ene
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://arturogalofre.github.io # the base hostname & protocol for your site
 author: Arturo Galofre
-street_address: Boston
+street_address: 
 city: Boston
 state: Ma
-zip_code: 021309
+zip_code: 02108
 country: United States of America
 phone: (773) 543-4884
 
